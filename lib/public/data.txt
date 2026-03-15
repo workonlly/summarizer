@@ -1,0 +1,2 @@
+Do not store real secrets in source files.
+Provide tokens via --dart-define at runtime.
